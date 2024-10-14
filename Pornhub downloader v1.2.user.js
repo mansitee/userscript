@@ -13,8 +13,8 @@
 // @grant        GM_addStyle
 // @grant        GM_notification
 // @require      https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js
-// @downloadURL https://raw.githubusercontent.com/mansitee/userscript/refs/heads/main/Pornhub.com downloader.user.js
-// @updateURL https://raw.githubusercontent.com/mansitee/userscript/refs/heads/main/Pornhub.com downloader.user.js
+// @downloadURL  https://raw.githubusercontent.com/mansitee/userscript/refs/heads/main/Pornhub downloader v1.2.user.js
+// @updateURL    https://raw.githubusercontent.com/mansitee/userscript/refs/heads/main/Pornhub downloader v1.2.user.js
 // ==/UserScript==
 
 GM_addStyle(`
